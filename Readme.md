@@ -15,6 +15,13 @@ El projecte es sobre git i github, i com integrar entre els dos.
 ![ProjectLogo](images/logo.png)
 
 ### Features
+
+| Feature   | Description   | Status       |
+| --------- | ------------- | ------------ |
+|   1r      | Description 1 | In Progress  |
+|   2n      | Description 2 | Not Started  |
+|   3r      | Description 3 | Completed    |
+
 ### Installation
 ### Usage
 ### License
