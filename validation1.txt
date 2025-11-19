@@ -1,0 +1,90 @@
+commit acddae46c50bb5e177cbbf456b5bdfd16c1f8ddf
+Author: Marioxcom6 <54559465s@iespoblenou.org>
+Date:   Wed Nov 19 09:37:33 2025 +0100
+
+    Merge add-license branch into main
+
+ LICENSE.md | 1 -
+ 1 file changed, 1 deletion(-)
+
+commit 4e9fb04f21af982bc331ea355b369c968a4674ce
+Author: Marioxcom6 <54559465s@iespoblenou.org>
+Date:   Wed Nov 19 09:32:23 2025 +0100
+
+    Add MIT License
+
+ LICENSE.md | 21 +++++++++++++++++++++
+ 1 file changed, 21 insertions(+)
+
+commit 7f8e67b2eef3bfddaa47bfe00ca460cab8ff6867
+Author: Marioxcom6 <54559465s@iespoblenou.org>
+Date:   Wed Nov 19 09:26:56 2025 +0100
+
+    Enhace README with formatting
+
+ Readme.md | 22 ++++++++++++++++++++++
+ 1 file changed, 22 insertions(+)
+
+commit 6da4c056a131a3dd7018502dea0d50fde26fa6c8
+Author: Marioxcom6 <54559465s@iespoblenou.org>
+Date:   Wed Nov 19 09:09:57 2025 +0100
+
+    Add feature list table to README
+
+ Readme.md | 7 +++++++
+ 1 file changed, 7 insertions(+)
+
+commit 966c1d8941ace67efe5f28f3b04ee34dbc6cf9f1
+Author: Marioxcom6 <54559465s@iespoblenou.org>
+Date:   Wed Nov 19 08:59:25 2025 +0100
+
+    Add project logo to README
+
+ Readme.md       |   3 +++
+ images/logo.png | Bin 0 -> 3976 bytes
+ 2 files changed, 3 insertions(+)
+
+commit 7c1eb118f8487b85b77458cf306fc3c3ba21adb0
+Author: Marioxcom6 <54559465s@iespoblenou.org>
+Date:   Wed Nov 19 08:53:17 2025 +0100
+
+    Add sections to README
+
+ Readme.md | 5 +++++
+ 1 file changed, 5 insertions(+)
+
+commit c03fb9f9c2fd4cc5a8a3f75e4f18a47c81590b0d
+Author: Marioxcom6 <54559465s@iespoblenou.org>
+Date:   Wed Nov 19 08:52:07 2025 +0100
+
+    Add hyperlinks to README
+
+ Readme.md | 16 ++++++++++------
+ 1 file changed, 10 insertions(+), 6 deletions(-)
+
+commit 8e12ab72aad46b151dcd6ccc69ada7811aafbdd2
+Author: Marioxcom6 <54559465s@iespoblenou.org>
+Date:   Wed Nov 19 08:34:39 2025 +0100
+
+    Add Table of COntents to README
+
+ Readme.md | 6 ++++++
+ 1 file changed, 6 insertions(+)
+
+commit a1bd656b72e184fb7d0ddcabeb902bc7f4d3b433
+Author: Marioxcom6 <54559465s@iespoblenou.org>
+Date:   Wed Nov 19 08:29:18 2025 +0100
+
+    Add Readme with project introduction
+
+ Readme.md | 2 ++
+ 1 file changed, 2 insertions(+)
+
+commit f666596a504fa54c21a4da6c07b57a1ea437bf57
+Author: Marioxcom6 <54559465s@iespoblenou.org>
+Date:   Wed Nov 19 08:24:31 2025 +0100
+
+    Initial commit with .gitignore
+
+ .gitignore | 1 +
+ 1 file changed, 1 insertion(+)
