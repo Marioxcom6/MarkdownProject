@@ -11,6 +11,9 @@ El projecte es sobre git i github, i com integrar entre els dos.
 * [License](#license)
 
 ### Introduction
+
+![ProjectLogo](images/logo.png)
+
 ### Features
 ### Installation
 ### Usage
