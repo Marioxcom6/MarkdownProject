@@ -10,3 +10,8 @@ El projecte es sobre git i github, i com integrar entre els dos.
 * [Usage](#usage)
 * [License](#license)
 
+### Introduction
+### Features
+### Installation
+### Usage
+### License
