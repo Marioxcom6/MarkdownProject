@@ -1,6 +1,6 @@
 # Markdown and Git Homework
 
-El projecte es sobre git i github, i com integrar entre els dos.
+El projecte es sobre git i github, i com integrar entre els dos a la part 2.
 [GitDocs](https://git-scm.com/docs)
 
 ## Table of Contents
