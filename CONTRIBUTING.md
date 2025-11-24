@@ -25,6 +25,7 @@ Aquesta és la manera preferida de contribuir amb codi:
 1.  **Feu Fork** del repositori.
 2.  **Cloneu** el vostre fork localment.
 3.  **Creeu una Branca Nova:** Utilitzeu una branca descriptiva (Exemple: `git checkout -b feature/nom-de-la-funcionalitat`).
+
 4.  **Feu els Canvis.**
 5.  **Proveu** els canvis (si hi ha tests, assegureu-vos que passen).
 6.  **Feu Commit:** Escriviu missatges de commit clars i descriptius.
